@@ -1,2 +1,3 @@
-# rsf-website
-Repository that hosts the external AIM-RSF website. 
+# AIM-RSF External Website
+
+This repository hosts the external AIM-RSF website. 
